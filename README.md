@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1tpbewJhMGx0MyCm6zN_SK&ust=1683437673431000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCC8ZT83_4CFQAAAAAdAAAAABAY">
 <!--
 **IroshPerera/IroshPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
