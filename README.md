@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Irosh Perera</h1>
 <h3 align="center">A Software Engineering student from Sri Lanka !!!</h3>
 
+
+
+<img src="https://e1.pxfuel.com/desktop-wallpaper/898/482/desktop-wallpaper-200-beautiful-software-engineer-for-you-software-engineer.jpg">
+
 - 🔭 I’m currently working on [My Portfolio](https://github.com/IroshPerera/my_portfolio.git)
 
 <h3 align="left">Connect with me:</h3>
