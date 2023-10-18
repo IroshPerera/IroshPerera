@@ -3,7 +3,7 @@
 
 
 
-<img src="https://e1.pxfuel.com/desktop-wallpaper/898/482/desktop-wallpaper-200-beautiful-software-engineer-for-you-software-engineer.jpg">
+<img src="https://e1.pxfuel.com/desktop-wallpaper/277/636/desktop-wallpaper-software-engineer-posted-by-ryan-johnson-front-end-developer.jpg">
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/IroshPerera/my_portfolio.git)
 
