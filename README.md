@@ -16,9 +16,6 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **iroshlashan31@gmail.com**
-- ⚡ Fun fact **Call me as Irosh**
-
 </td>
 <td width="50%" align="center">
 
