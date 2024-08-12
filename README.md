@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irosh Perera</h1>
-<h3 align="center">A passionate frll stack developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate full stack developer from Sri Lanka 🇱🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iroshperera&label=Profile%20views&color=0e75b6&style=flat" alt="iroshperera" /> </p>
 
