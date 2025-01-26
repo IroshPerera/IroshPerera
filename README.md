@@ -13,7 +13,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **ANGULAR**
+- 🌱 I’m currently learning **MACHINE LEARNING**
 
 - 🧑‍🎓 I’m an Undergraduate at **IJSE**
 
