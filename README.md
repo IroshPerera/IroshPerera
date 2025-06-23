@@ -15,7 +15,7 @@
   
 - 🌱 I’m currently learning **MACHINE LEARNING**
 
-- 🧑‍🎓 I’m an Undergraduate at **IJSE**
+- 🧑‍🎓 I’m an Undergraduate at **University of Bolton**
 
 - 💬 Ask me about **Java**
 
