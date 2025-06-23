@@ -4,7 +4,7 @@
 
 </h1>
 <h3 align="center">
-  Associate Software Engineer at Webmotech Pvt Ltd  <a href="https://webmotech.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrCRYxLheMndOVVmBU_34cFUP7rkualfJLVA&s" alt="Webmotech Logo" width="20" height="20" style="vertical-align: middle; margin-right: 8px;" /></a> 🇱🇰
+  Associate Software Engineer 🇱🇰
 </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iroshperera&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
