@@ -4,7 +4,7 @@
 
 </h1>
 <h3 align="center">
-  Associate Software Engineer 🇱🇰
+  Software Engineer | Entrepreneur 🇱🇰
 </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iroshperera&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
