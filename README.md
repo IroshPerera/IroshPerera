@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="https://irosh-perera-portfolio.iroshlashan31.chatgpt.site">
+  <a href="https://iroshperera.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/irosh-perera-59481727b/">
+  <a href="https://www.linkedin.com/in/iroshperera/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/IroshPerera">
@@ -211,13 +211,13 @@ Backend and full-stack development experience across several business platforms:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/irosh-perera-59481727b/">
+  <a href="https://www.linkedin.com/in/iroshperera/">
     <img src="https://img.shields.io/badge/LinkedIn-Irosh%20Perera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/IroshPerera">
     <img src="https://img.shields.io/badge/GitHub-IroshPerera-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://irosh-perera-portfolio.iroshlashan31.chatgpt.site">
+  <a href="https://iroshperera.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-irosh--perera-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
